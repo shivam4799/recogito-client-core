@@ -167,7 +167,7 @@ const Editor = props => {
           <div className="r6o-footer">
             <button 
               className="r6o-btn outline"
-              onClick={onCancel}>{i18n.t('Cancel')}</button>
+              onClick={onCancel}>{i18n.t('Delete')}</button>
 
             <button 
               className="r6o-btn "
