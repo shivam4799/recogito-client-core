@@ -171,7 +171,7 @@ const Editor = props => {
 
             <button 
               className="r6o-btn "
-              onClick={onOk}>{i18n.t('Ok')}</button>
+              onClick={onOk}>{i18n.t('Convert')}</button>
           </div>
         )}
       </div>
